@@ -17,7 +17,7 @@ def hashFile(fileName):
 
     return hasher.hexdigest()
 
-def main():
-    print(hashFile("hashinfunc.py"))
+# def main():
+#     print(hashFile("hashinfunc.py"))
 
-main()
+# main()
